@@ -52,11 +52,9 @@ object DraculaNotification {
         <div style="${Styles.CONTAINER}">
             <h4 style="${Styles.HEADING}">✨ What's New</h4>
             <ul style="margin: 0; padding-left: 18px;">
-                <li style="${Styles.LIST_ITEM}">🎨 Alucard now colors Go, Python, Ruby, CSS, Markdown and more with its own palette</li>
-                <li style="${Styles.LIST_ITEM}">🎨 Cleaner punctuation coloring in Dracula — braces, brackets and operators finally match the theme</li>
-                <li style="${Styles.LIST_ITEM}">🎨 Readable toggle switches in Alucard and clearer plugin Update buttons</li>
-                <li style="${Styles.LIST_ITEM}">🎨 Islands Alucard now matches its dark counterparts</li>
-                <li style="${Styles.LIST_ITEM}">✨ Notifications show their intended styling on every theme</li>
+                <li style="${Styles.LIST_ITEM}">🎨 Consistent panel backgrounds, distinct from the darker editor, in Dracula and Dracula Colorful</li>
+                <li style="${Styles.LIST_ITEM}">🎨 Easier-to-see focused and inactive selections, with a separate hover highlight</li>
+                <li style="${Styles.LIST_ITEM}">🎨 Subtle button borders and progress tracks alongside clearer selections</li>
             </ul>
         </div>
     """.trimIndent()
